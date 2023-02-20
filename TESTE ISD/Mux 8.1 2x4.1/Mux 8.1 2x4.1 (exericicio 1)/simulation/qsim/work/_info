@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Tiago/Desktop/TESTE ISD/Mux 8.1 2x4.1/Mux 8.1 2x4.1 (exericicio 1)/simulation/qsim
+vBlocoMux812x41
+!s110 1639920481
+!i10b 1
+!s100 afI`Lg32YTM?:JHk>2XHb3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbTciSOaUli<7ECWaMY?Nc0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1639920478
+8Mux812x41.vo
+FMux812x41.vo
+!i122 0
+L0 32 158
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1639920481.000000
+!s107 Mux812x41.vo|
+!s90 -work|work|Mux812x41.vo|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@bloco@mux812x41
+vBlocoMux812x41_vlg_vec_tst
+!s110 1639920482
+!i10b 1
+!s100 DomTg^z]<]97lI:dk^mB_3
+R1
+IJUj7=6aR0Wg3zM:6^6MUl2
+R2
+R0
+w1639920477
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 1
+L0 30 105
+R3
+r1
+!s85 0
+31
+!s108 1639920482.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R4
+R5
+n@bloco@mux812x41_vlg_vec_tst

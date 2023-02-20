@@ -1,0 +1,46 @@
+|BlocoMux812x41
+Y <= Mux812x41:inst.Y
+S => Mux812x41:inst.S
+I0 => Mux812x41:inst.I0
+I1 => Mux812x41:inst.I1
+I2 => Mux812x41:inst.I2
+I3 => Mux812x41:inst.I3
+I4 => Mux812x41:inst.I4
+I5 => Mux812x41:inst.I5
+I6 => Mux812x41:inst.I6
+I7 => Mux812x41:inst.I7
+
+
+|BlocoMux812x41|Mux812x41:inst
+Y <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+I1 => 74153:inst.1C1
+S => 74153:inst.1GN
+S => inst2.IN0
+S => 74153:inst.B
+S => 74153:inst.A
+I0 => 74153:inst.1C0
+I4 => 74153:inst.2C0
+I6 => 74153:inst.2C2
+I2 => 74153:inst.1C2
+I3 => 74153:inst.1C3
+I5 => 74153:inst.2C1
+I7 => 74153:inst.2C3
+
+
+|BlocoMux812x41|Mux812x41:inst|74153:inst
+1Y <= 9.DB_MAX_OUTPUT_PORT_TYPE
+1GN => 26.IN0
+B => 27.IN0
+A => 29.IN0
+1C0 => 1.IN3
+1C1 => 2.IN3
+1C2 => 3.IN3
+1C3 => 4.IN3
+2Y <= 10.DB_MAX_OUTPUT_PORT_TYPE
+2C0 => 5.IN0
+2GN => 25.IN0
+2C1 => 6.IN0
+2C2 => 7.IN0
+2C3 => 8.IN0
+
+
